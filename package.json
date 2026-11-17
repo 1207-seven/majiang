@@ -1,0 +1,13 @@
+{
+  "name": "mahjong-draw-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "摸牌添喜 - 麻将摸牌抽奖（可分享链接版）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
